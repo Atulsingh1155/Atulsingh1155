@@ -38,7 +38,7 @@
 - 🤖 Passionate about **AI Automation & Developer Tools**
 - 🧠 Conquered **450+ problems on LeetCode** - Strong DSA foundation
 - 🎯 Expert in **Problem Solving & System Design**
--  I genuinely **love coding & shipping real products**
+- 🔥 I genuinely **love coding & shipping real products**
 - ⚡ **Fun fact**: I debug code faster than I debug my life! 😄
 - 🌱 Currently exploring **Web3, Blockchain & Advanced AI**
 - 💬 Ask me about **Game Dev, Full Stack, or Algorithm Optimization**
@@ -109,24 +109,20 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atulsingh1155&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&area=true&area_color=5BCDEC" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Atulsingh1155&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </div>
 
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Atulsingh1155&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Atulsingh1155&theme=tokyonight&hide_border=true" />
+  <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Atulsingh1155&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="200" src="https://streak-stats.demolab.com/?user=Atulsingh1155&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atulsingh1155&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Atulsingh1155&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Atulsingh1155&theme=tokyonight&no-frame=true&row=1&column=7&margin-h=15&margin-w=5" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Atulsingh1155&theme=tokyonight&hide_border=true&layout=compact" alt="Wakatime Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Atulsingh1155&theme=discord&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 <!-- ===================================================== -->
@@ -301,12 +297,6 @@
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
-</div>
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32"> Current Vibes
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=your_spotify_user_id&count=1&unique=true" alt="Spotify" width="350"/>
 </div>
 
 <!-- ===================================================== -->
