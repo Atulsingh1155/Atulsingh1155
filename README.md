@@ -38,8 +38,7 @@
 - 🤖 Passionate about **AI Automation & Developer Tools**
 - 🧠 Conquered **450+ problems on LeetCode** - Strong DSA foundation
 - 🎯 Expert in **Problem Solving & System Design**
-- 📺 Content Creator: **Rento Gamerz** YouTube Channel
-- 🔥 I genuinely **love coding & shipping real products**
+-  I genuinely **love coding & shipping real products**
 - ⚡ **Fun fact**: I debug code faster than I debug my life! 😄
 - 🌱 Currently exploring **Web3, Blockchain & Advanced AI**
 - 💬 Ask me about **Game Dev, Full Stack, or Algorithm Optimization**
@@ -225,10 +224,6 @@
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Atulsingh1155&repo=playwright-test-impact-analyzer&theme=tokyonight&hide_border=true" alt="Playwright Test Impact Analyzer" />
-</div>
-
 <!-- ===================================================== -->
 <!--                 CODING PROFILE                        -->
 <!-- ===================================================== -->
@@ -267,30 +262,6 @@
 </div>
 
 <!-- ===================================================== -->
-<!--                 YOUTUBE SECTION                       -->
-<!-- ===================================================== -->
-
-## <img src="https://media.giphy.com/media/XD9o33QG9BoMis7iM4/giphy.gif" width="32"> Content Creation
-
-<div align="center">
-  
-  ### <img src="https://media.giphy.com/media/13Nc3xlO1kGg3S/giphy.gif" width="25"> YouTube Channel: Rento Gamerz
-  
-  <a href="https://youtube.com/@RentoGamerz" target="_blank">
-    <img src="https://img.shields.io/badge/📺%20Rento%20Gamerz-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel"/>
-  </a>
-  
-  <br><br>
-  
-  **Content Focus:**
-  - 🎮 **Game Development Tutorials** - Phaser.js & Unreal Engine tips
-  - 💻 **Coding Walkthroughs** - Full-stack development guides  
-  - 🎯 **Problem Solving** - LeetCode solutions explained
-  - 🚀 **Tech Reviews** - Latest tools and frameworks
-  
-</div>
-
-<!-- ===================================================== -->
 <!--                 CONNECT SECTION                       -->
 <!-- ===================================================== -->
 
@@ -308,10 +279,6 @@
   
   <a href="mailto:singhatul1155@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  
-  <a href="https://youtube.com/@RentoGamerz">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
   
   <br><br>
