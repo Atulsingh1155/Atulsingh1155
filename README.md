@@ -254,7 +254,7 @@
 </div>
 
 <div align="center">
-  <img src="leetcode.png" alt="LeetCode Stats" width="600"/>
+  <img src="https://leetcard.jacoblin.cool/Atulsingh1155?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
 <!-- ===================================================== -->
